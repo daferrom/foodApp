@@ -11,11 +11,13 @@
   "dependencies": {
     "@nuxtjs/style-resources": "^1.2.1",
     "core-js": "^3.25.3",
-    "node-sass": "^10.0.0",
     "nuxt": "^2.15.8",
+    "sass-loader": "10.1.1",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
 }
