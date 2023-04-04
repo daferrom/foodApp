@@ -1,7 +1,7 @@
 <template>
   <main class="container">
     <AppHeader />
-    <AppRestaurantInfo />
+    <!-- <AppRestaurantInfo /> -->
   </main>
 </template>
 

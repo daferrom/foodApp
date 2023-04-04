@@ -1,10 +1,8 @@
 <template>
     <nav>
         <ul>
-            <li>
-                <nuxt-link exact to="/">Home</nuxt-link>
-                <li><nuxt-link to="/about">about</nuxt-link></li>
-            </li>
+            <li><nuxt-link exact to="/">Home</nuxt-link></li>
+            <li><nuxt-link to="/restaurants">Restaurants</nuxt-link></li>
         </ul>
     </nav>
 </template>
